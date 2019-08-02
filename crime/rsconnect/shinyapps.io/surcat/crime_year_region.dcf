@@ -5,8 +5,8 @@ account: surcat
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 599691
-bundleId: 1737527
+bundleId: 2287004
 url: https://surcat.shinyapps.io/crime_year_region/
-when: 1543875230.49172
+when: 1564766144.23347
 asMultiple: FALSE
 asStatic: FALSE
