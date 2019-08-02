@@ -1,0 +1,12 @@
+name: crime_year_region
+title: crime_year_region
+username:
+account: surcat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 599691
+bundleId: 1737527
+url: https://surcat.shinyapps.io/crime_year_region/
+when: 1543875230.49172
+asMultiple: FALSE
+asStatic: FALSE
